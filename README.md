@@ -3,7 +3,6 @@
 Tianyi Zeng<sup>1</sup>, Ph.D.; Jiazhen Zhang<sup>1</sup>; Enette Revilla<sup>5</sup>, M.Sc.; Eléonore V. Lieffrig<sup>1</sup>, M.Sc.; Xi Fang<sup>2</sup>, Ph.D.; Yihuan Lu<sup>6</sup>, Ph.D.; John A. Onofrey<sup>1,3,4</sup>, Ph.D.
 
 [Cite this article](#cite-this-article)
-to do
 
 ## Abstract
 
@@ -28,8 +27,11 @@ Head movement is a major limitation in brain positron emission tomography (PET) 
 <sup>6</sup>  United Imaging, Shanghai, China
 
 ## Cite this article
-to do
+
+Zeng, T. et al. (2022). Supervised Deep Learning for Head Motion Correction in PET. In: Wang, L., Dou, Q., Fletcher, P.T., Speidel, S., Li, S. (eds) Medical Image Computing and Computer Assisted Intervention – MICCAI 2022. MICCAI 2022. Lecture Notes in Computer Science, vol 13434. Springer, Cham.
 
 ### DOI
-to do
+[https://doi.org/10.1007/978-3-031-16440-8_19
+](https://doi.org/10.1007/978-3-031-16440-8_19)
+
 
